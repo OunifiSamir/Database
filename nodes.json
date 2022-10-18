@@ -1,0 +1,351 @@
+[{
+  "_id": {
+    "$oid": "62ff9f958df493645e836899"
+  },
+  "userEmail": "aaa@gmail.com",
+  "level": 0,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1660919701085"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1660919701085"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6301399388205c2ed954ab3a"
+  },
+  "userEmail": "13@x.com",
+  "parentEmail": "12@x.com",
+  "level": 2,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1661024659108"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1663157881395"
+    }
+  },
+  "__v": 0,
+  "tickets": [
+    {
+      "$oid": "6321c659a07fee1844c485e2"
+    },
+    {
+      "$oid": "6321c679a07fee1844c485ea"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "630139b188205c2ed954ab4a"
+  },
+  "userEmail": "14@x.com",
+  "parentEmail": "13@x.com",
+  "level": 3,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1661024689550"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1663173760049"
+    }
+  },
+  "__v": 0,
+  "tickets": [
+    {
+      "$oid": "6321c90a6e0191bbb9165c1d"
+    },
+    {
+      "$oid": "632204806e0191bbb9165c60"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "630139d088205c2ed954ab5a"
+  },
+  "userEmail": "15@x.com",
+  "parentEmail": "14@x.com",
+  "level": 4,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1661024720926"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1661024720926"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63013a0688205c2ed954ab70"
+  },
+  "userEmail": "16@x.com",
+  "parentEmail": "15@x.com",
+  "level": 5,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1661024774557"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1661024774557"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63035f8cce9e2878579b5033"
+  },
+  "level": "1",
+  "parentEmail": "aaa@gmail.com",
+  "userEmail": "12@x.com"
+},{
+  "_id": {
+    "$oid": "630360e358ac80e09de9860c"
+  },
+  "userEmail": "ahmed@x.com",
+  "parentEmail": "aaa@gmail.com",
+  "level": 1,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1661165795943"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1661165795943"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6303a5c2fde2cd9811f5b415"
+  },
+  "userEmail": "dhia@x.com",
+  "parentEmail": "aaa@gmail.com",
+  "level": 1,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1661183426074"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1661183426074"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6303a60dfde2cd9811f5b435"
+  },
+  "userEmail": "samir@x.com",
+  "parentEmail": "dhia@x.com",
+  "level": 2,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1661183501925"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1661183501925"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6303abf5fde2cd9811f5b487"
+  },
+  "userEmail": "najd@x.com",
+  "parentEmail": "ahmed@x.com",
+  "level": 2,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1661185013138"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1661185013138"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6310cb1f8a76235abb2abd12"
+  },
+  "userEmail": "najd3@x.com",
+  "parentEmail": "ahmed@x.com",
+  "level": 2,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1662044959403"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1662044959403"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6314a7ebb965437d0f1fb431"
+  },
+  "userEmail": "najd4@x.com",
+  "parentEmail": "ahmed@x.com",
+  "level": 2,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1662298091894"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1662298091894"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "632e26d3cd1ca4a892684924"
+  },
+  "userEmail": "najd15@x.com",
+  "parentEmail": "najd@x.com",
+  "level": 3,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1663968979914"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1663968979914"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "632e2f3fcd1ca4a892684987"
+  },
+  "userEmail": "najd115@x.com",
+  "parentEmail": "najd@x.com",
+  "level": 3,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1663971135389"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1663971135389"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "632e2f8ccd1ca4a892684999"
+  },
+  "userEmail": "najd112@x.com",
+  "parentEmail": "najd15@x.com",
+  "level": 4,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1663971212098"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1663971212098"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "632e2fbecd1ca4a8926849b0"
+  },
+  "userEmail": "najd113@x.com",
+  "parentEmail": "najd15@x.com",
+  "level": 4,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1663971262444"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1663971262444"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "632e4156cd1ca4a8926849f1"
+  },
+  "userEmail": "najd1134@x.com",
+  "parentEmail": "najd112@x.com",
+  "level": 5,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1663975766167"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1663975766167"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6345f0fc3376f18aad260cea"
+  },
+  "userEmail": "r@x.com",
+  "parentEmail": "ahmed@x.com",
+  "level": 2,
+  "tickets": [],
+  "profit": 0,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1665528060495"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1665528060495"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6345f590b4fb5170fc042acd"
+  },
+  "userEmail": "med@gmail.com",
+  "parentEmail": "ahmed@x.com",
+  "level": 2,
+  "tickets": [],
+  "profit": 0,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1665529232414"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1665529232414"
+    }
+  },
+  "__v": 0
+}]

@@ -1,0 +1,196 @@
+[{
+  "_id": {
+    "$oid": "62ebf1b4eeeb81e0a445e462"
+  },
+  "requiredSkills": [
+    "Figma"
+  ],
+  "recommandations": [
+    "630ea5ac73aafeecabcf982c",
+    "62f839e67bc6083d0ab3544b",
+    "630ea5ac73aafeecabcf982c"
+  ],
+  "title": "DEV java",
+  "description": "Nous le devons à l'intelligence collective \nportée par nos 190 collaborateurs\n représentant 25 nationalités.\n",
+  "modedemploi": "CDI",
+  "companyDescription": "Portalite",
+  "responsabilities": "Backend",
+  "expYears": "5",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1659630004214"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1660434918157"
+    }
+  },
+  "__v": 0,
+  "status": "cloturee"
+},{
+  "_id": {
+    "$oid": "62f90c18898495b383a7b96a"
+  },
+  "requiredSkills": [
+    "Figma"
+  ],
+  "recommandations": [
+    "62f839e67bc6083d0ab3544b",
+    "630eaa1973aafeecabcf984d"
+  ],
+  "title": "DEV java",
+  "description": " Nous le devons à l'intelligence \ncollective portée par nos 190 collaborateurs représentant 25 nationalités.\n",
+  "modedemploi": "CDI",
+  "companyDescription": "Portalite",
+  "responsabilities": "Backend",
+  "expYears": "5",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1659630004214"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1660434918157"
+    }
+  },
+  "__v": 0,
+  "status": "repondu"
+},{
+  "_id": {
+    "$oid": "63055f3773aafeecabcf97ec"
+  },
+  "requiredSkills": [
+    "Figma"
+  ],
+  "recommandations": [
+    "62f839e67bc6083d0ab3544b"
+  ],
+  "title": "DEV WEB",
+  "description": "Nous le devons à l'intelligence collective \nportée par nos 190 collaborateurs\n représentant 25 nationalités.\n",
+  "modedemploi": "CDI",
+  "companyDescription": "Portalite",
+  "responsabilities": "front",
+  "expYears": "5",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1659630004214"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1660434918157"
+    }
+  },
+  "__v": 0,
+  "status": "draft"
+},{
+  "_id": {
+    "$oid": "63055f7673aafeecabcf97ed"
+  },
+  "requiredSkills": [
+    "Figma"
+  ],
+  "recommandations": [
+    "62f839e67bc6083d0ab3544b"
+  ],
+  "title": "5G",
+  "description": "Nous portée par nos 190 collaborateurs\n représentant 25 nationalités.\n",
+  "modedemploi": "CDI",
+  "companyDescription": "Portalite",
+  "responsabilities": "TELECOM",
+  "expYears": "5",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1659630004214"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1660434918157"
+    }
+  },
+  "__v": 0,
+  "status": "repondu"
+},{
+  "_id": {
+    "$oid": "6306e0f573aafeecabcf97fa"
+  },
+  "requiredSkills": [
+    "Figma"
+  ],
+  "recommandations": [
+    "62f839e67bc6083d0ab3544b"
+  ],
+  "title": "IOT",
+  "description": "Nous par nos 190 collaborateurs\n représentant 25 nationalités.\n",
+  "modedemploi": "CDI",
+  "companyDescription": "Portalite",
+  "responsabilities": "5G",
+  "expYears": "5",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1659630004214"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1660434918157"
+    }
+  },
+  "__v": 0,
+  "status": "publiee"
+},{
+  "_id": {
+    "$oid": "6327b9d02c8913087d0ee862"
+  },
+  "requiredSkills": [
+    ""
+  ],
+  "recommandations": [],
+  "title": "aaa",
+  "description": "",
+  "modedemploi": "aaa",
+  "companyDescription": "",
+  "responsabilities": "",
+  "expYears": "",
+  "image": "\\\\1663547856336.jpg",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1663547856379"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1663547856379"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6327cb0a6c27b2bb953c87ba"
+  },
+  "requiredSkills": [
+    ""
+  ],
+  "recommandations": [],
+  "title": "formation",
+  "description": "",
+  "modedemploi": "art",
+  "companyDescription": "",
+  "responsabilities": "",
+  "expYears": "exemple",
+  "image": "\\\\1663552266353.jpg",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1663552266392"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1663552266392"
+    }
+  },
+  "__v": 0
+}]

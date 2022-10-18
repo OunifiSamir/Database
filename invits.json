@@ -1,0 +1,39 @@
+[{
+  "_id": {
+    "$oid": "62f83a157bc6083d0ab35454"
+  },
+  "invitedEmail": "ahmedezzar2@gmail.com",
+  "code": "7d2af82955e60ec94e9b91cd6735e093",
+  "userEmail": "Ounifisamiritdsi@gmail.com",
+  "isActive": true,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1660434965396"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1660434965396"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6345fd4c74aeef984ac5991e"
+  },
+  "invitedEmail": "usersszsdzsds@gmail.com",
+  "code": "22c2542a404561732dd206c7f10318bc",
+  "userEmail": "aouitialdine@gmail.com",
+  "isActive": true,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1665531212331"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1665531212331"
+    }
+  },
+  "__v": 0
+}]

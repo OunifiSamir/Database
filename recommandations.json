@@ -1,0 +1,70 @@
+[{
+  "_id": {
+    "$oid": "62f839e67bc6083d0ab3544b"
+  },
+  "offer_Id": {
+    "$oid": "630912efa1e77107107fdf30"
+  },
+  "userEmail": "Ounifisamiritdsi@gmail.com",
+  "invitedEmail": "ahmedezzar2@gmail.com",
+  "invitedLastName": "aaaa",
+  "linkedInUrl": "gdgdgdfg",
+  "phoneNumber": "585858585",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1660434918178"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1660434918178"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "630ea5ac73aafeecabcf982c"
+  },
+  "offer_Id": {
+    "$oid": "63091339a1e77107107fdf33"
+  },
+  "userEmail": "dhia@gmail.com",
+  "invitedEmail": "zied@gmail.com",
+  "invitedLastName": "aaaa",
+  "linkedInUrl": "gdgdgdfg",
+  "phoneNumber": "585858585",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1660434918178"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1660434918178"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "630eaa1973aafeecabcf984d"
+  },
+  "offer_Id": {
+    "$oid": "62f90c18898495b383a7b96a"
+  },
+  "userEmail": "ala@gmail.com",
+  "invitedEmail": "rami@gmail.com",
+  "invitedLastName": "aaaa",
+  "linkedInUrl": "gdgdgdfg",
+  "phoneNumber": "585858585",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1660434918178"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1660434918178"
+    }
+  },
+  "__v": 0
+}]

@@ -1,0 +1,152 @@
+[{
+  "_id": {
+    "$oid": "6302bca344681a4c77aab4ce"
+  },
+  "TitreProfile": "backend",
+  "PosteActuel": "dev",
+  "Formation": "SIM",
+  "Experience": "3 ans",
+  "Secteur": "Telecom",
+  "Specialiter": "4G",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1661123747073"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1661123747073"
+    }
+  },
+  "__v": 0,
+  "status": "close"
+},{
+  "_id": {
+    "$oid": "63039acb6023ed1f98dcf776"
+  },
+  "TitreProfile": "aaaa",
+  "PosteActuel": "aa",
+  "Formation": "aaa",
+  "Experience": "aaa",
+  "Secteur": "IT",
+  "Specialiter": "Mobile",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1661180619713"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1661180619713"
+    }
+  },
+  "__v": 0,
+  "status": "close"
+},{
+  "_id": {
+    "$oid": "6303a5c071f0f44d7a569db5"
+  },
+  "TitreProfile": "frontend",
+  "PosteActuel": "js",
+  "Formation": "WEB engineer",
+  "Experience": "6 ans",
+  "Secteur": "IT",
+  "Specialiter": "WEB",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1661183424915"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1661183424915"
+    }
+  },
+  "__v": 0,
+  "status": "encours"
+},{
+  "_id": {
+    "$oid": "6303affe71f0f44d7a58100f"
+  },
+  "TitreProfile": "backend",
+  "PosteActuel": "web",
+  "Formation": "MOBILE",
+  "Experience": "3ans",
+  "Secteur": "Telecom",
+  "Specialiter": "Optim",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1661186046982"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1661186046982"
+    }
+  },
+  "__v": 0,
+  "status": "open"
+},{
+  "_id": {
+    "$oid": "6306ca7573aafeecabcf97f6"
+  },
+  "TitreProfile": "backend",
+  "PosteActuel": "dev",
+  "Formation": "SIM",
+  "Experience": "3 ans",
+  "Secteur": "Telecom",
+  "Specialiter": "4G",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1661123747073"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1661123747073"
+    }
+  },
+  "__v": 0,
+  "status": "close"
+},{
+  "_id": {
+    "$oid": "6306caa473aafeecabcf97f7"
+  },
+  "TitreProfile": "backend",
+  "PosteActuel": "dev",
+  "Formation": "SIM",
+  "Experience": "3 ans",
+  "Secteur": "Telecom",
+  "Specialiter": "4G",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1661123747073"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1661123747073"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "634ec304fd7acc88a98dac66"
+  },
+  "TitreProfile": "aa",
+  "PosteActuel": "aaaa",
+  "Formation": "aaaa",
+  "Experience": "aaaa",
+  "Secteur": "IT",
+  "Specialiter": "WEB",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666106116204"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1666106116204"
+    }
+  },
+  "__v": 0
+}]
